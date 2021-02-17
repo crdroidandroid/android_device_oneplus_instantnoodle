@@ -35,9 +35,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE=OnePlus8 \
     PRODUCT_NAME=OnePlus8_EEA \
-    PRIVATE_BUILD_DESC="coral-user 11 RQ1A.210105.003 7005429 release-keys"
+    PRIVATE_BUILD_DESC="OnePlus8-user 11 RP1A.201005.001 2012102310 release-keys"
 
-BUILD_FINGERPRINT := "google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys"
-
-PRODUCT_PROPERTY_OVERRIDES += \
-    ro.build.fingerprint=google/coral/coral:11/RQ1A.210105.003/7005429:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ1A.210205.004/7038034:user/release-keys
