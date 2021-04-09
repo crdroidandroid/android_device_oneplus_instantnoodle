@@ -37,4 +37,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=OnePlus8_EEA \
     PRIVATE_BUILD_DESC="OnePlus8-user 11 RP1A.201005.001 2012102310 release-keys"
 
-BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210305.006/7119741:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys
