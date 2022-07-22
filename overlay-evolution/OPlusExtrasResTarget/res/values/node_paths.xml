@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- TP Edge Limit procfs node path -->
+    <string name="node_tp_edge_limit_mode_switch">/proc/touchpanel/tpedge_limit_enable</string>
+    <string name="node_tp_edge_limit_mode_switch_true">1</string>
+    <string name="node_tp_edge_limit_mode_switch_false">0</string>
+
+</resources>
+
