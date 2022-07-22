@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ApertureResTarget \
     EvolutionSettingsResTarget \
+    EvolutionSystemUIResTarget \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
