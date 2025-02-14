@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The Evolution X Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Whether device supports Anti-Flicker -->
+    <bool name="config_deviceSupportsAntiFlicker">true</bool>
+
+    <!-- Whether device supports Wireless Powershare -->
+    <bool name="config_deviceSupportsPowerShare">true</bool>
+
+    <!-- Whether device supports OEM Wireless Charger Quiet Mode -->
+    <bool name="config_deviceSupportsQuietMode">true</bool>
+
+    <!-- Whether device supports High Touch Polling Rate -->
+    <bool name="config_deviceSupportsHightTouchPollingRate">true</bool>   
+
+</resources>
