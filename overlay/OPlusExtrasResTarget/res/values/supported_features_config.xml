@@ -17,4 +17,7 @@
     <!-- Whether device supports High Touch Polling Rate -->
     <bool name="config_deviceSupportsHightTouchPollingRate">true</bool>   
 
+     <!-- Whether device supports Disabling Edge Limit -->
+    <bool name="config_deviceSupportsDisablingEdgeLimit">true</bool>
+
 </resources>
