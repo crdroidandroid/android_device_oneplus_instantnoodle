@@ -8,13 +8,11 @@
     <!-- Anti-Flicker sysfs node path -->
     <string name="node_antiflicker_switch" translatable="false">/sys/kernel/oplus_display/dimlayer_bl_en</string>
 
-    <!-- PowerShare procfs node path -->
-    <string name="node_powershare_switch" translatable="false">/proc/wireless/enable_tx</string>
-
-    <!-- Quiet Mode procfs node path -->
-    <string name="node_quiet_mode_switch" translatable="false">/proc/wireless/quiet_mode</string>
 
     <!-- High touch polling rate procfs node path -->
     <string name="node_high_touch_polling_rate_switch" translatable="false">/proc/touchpanel/game_switch_enable</string>
+
+    <!-- Edge limit node path -->
+    <string name="node_edge_limit_switch" translatable="false">/proc/touchpanel/oplus_tp_direction</string>
 
 </resources>

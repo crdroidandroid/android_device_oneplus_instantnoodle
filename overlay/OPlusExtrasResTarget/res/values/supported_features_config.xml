@@ -5,16 +5,16 @@
 -->
 <resources>
 
+    <!-- Whether device supports Alert Slider -->
+    <bool name="config_deviceSupportsAlertSlider">true</bool>
+
     <!-- Whether device supports Anti-Flicker -->
     <bool name="config_deviceSupportsAntiFlicker">true</bool>
 
-    <!-- Whether device supports Wireless Powershare -->
-    <bool name="config_deviceSupportsPowerShare">false</bool>
-
-    <!-- Whether device supports OEM Wireless Charger Quiet Mode -->
-    <bool name="config_deviceSupportsQuietMode">false</bool>
-
     <!-- Whether device supports High Touch Polling Rate -->
     <bool name="config_deviceSupportsHightTouchPollingRate">true</bool>   
+
+     <!-- Whether device supports Disabling Edge Limit -->
+    <bool name="config_deviceSupportsDisablingEdgeLimit">true</bool>
 
 </resources>
