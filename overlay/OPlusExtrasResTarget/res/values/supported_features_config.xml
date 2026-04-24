@@ -6,7 +6,7 @@
 <resources>
 
     <!-- Whether device supports Alert Slider -->
-    <bool name="config_deviceSupportsAlertSlider">true</bool>
+    <bool name="config_deviceSupportsAlertSlider">false</bool>
 
     <!-- Whether device supports Anti-Flicker -->
     <bool name="config_deviceSupportsAntiFlicker">true</bool>
